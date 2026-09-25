@@ -1,7 +1,7 @@
-# CS336 Spring 2026 Assignment 4: Data
+# Assignment 4 (data): Filtering Language Modeling Data
 
 For a full description of the assignment, see the assignment handout at
-[cs336_assignment4_data.pdf](./cs336_assignment4_data.pdf)
+[assignment4_data.pdf](./assignment4_data.pdf)
 
 If you see any issues with the assignment handout or code, please feel free to
 raise a GitHub issue or open a pull request with a fix.
